@@ -121,5 +121,5 @@ Após a implantação, o banco de dados estará disponível com um **endpoint p�
 
 ---
 
-🧑‍💻 **Autor:** [Roberto Rezende](https://github.com/roberto-rezende)  
+🧑‍💻 **Autor:** [Roberto Emílio Mariano de Rezende](https://github.com/robertoemilio)  
 📅 **Última atualização:** Outubro de 2025  
